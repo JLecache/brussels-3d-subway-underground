@@ -2,7 +2,6 @@
 
 ![Project Banner](public/screenshot.png)
 
-[![Vercel Deploy](https://deploy.vercel.app/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FJLecache%2Fbrussels-3d-subway-underground)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Cesium](https://img.shields.io/badge/CesiumJS-black?style=for-the-badge&logo=cesium&logoColor=white)
